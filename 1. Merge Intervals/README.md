@@ -1,5 +1,9 @@
 Merge Intervals
 ===============
+
+Started Sep. 19, 2019
+--------------------
+
 Given a collection of intervals, merge all overlapping intervals.
 
 Example 1:
@@ -21,4 +25,4 @@ Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 ```
 
 Note that the input is a 2D array  
-[LeetCode Link](https://leetcode.com/problems/merge-intervals/)
+<a href="https://leetcode.com/problems/merge-intervals/" target="_blank">LeetCode Link</a>
