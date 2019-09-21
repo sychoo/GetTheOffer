@@ -18,5 +18,6 @@ Chatroom
 --------
 <!---Make sure to end a line with 2 spaces to create a line break--->
 HI SIMON  
-Hey Jeanie!
+Hey Jeanie!  
+I tried to solve the merge interval questions. It seems like there are always some edge cases that I am not considering...I have uploaded Solution2.java. Gonna start from scratch now.  
 <!---Make sure to end a line with 2 spaces to create a line break--->

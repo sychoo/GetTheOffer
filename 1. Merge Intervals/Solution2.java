@@ -1,6 +1,7 @@
 // Sat Sep 21 07:53:40 EDT 2019
 // Simon Chu
 // Solution.java
+// Bad Solution, it doesn't work
 
 import java.util.ArrayList;
 
